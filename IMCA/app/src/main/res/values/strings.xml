@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMCA</string>
+    <string name="peso">Proporcione el peso en kilogramos</string>
+    <string name="estatura">Proporcione la Estatura en Metros</string>
+    <string name="Boton">Calcular</string>
+    <string name="Resultado">EL IMC es:</string>
+
+
+</resources>
